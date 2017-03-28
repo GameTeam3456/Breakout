@@ -6,6 +6,7 @@ public class Main extends Application{
     public static void main(String[] args){
         
        launch(args);　//アプリケーションの起動
+       //startメソッドの呼び出しはJavaFXランタイムが自動的に実行
         
     }  
            
